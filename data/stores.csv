@@ -1,0 +1,41 @@
+store_id,store_name,city,state,region,store_type,store_tier
+1,Store-001,Mumbai,Maharashtra,West,Standalone,Tier 1
+2,Store-002,Madurai,Tamil Nadu,South,Mall,Tier 2
+3,Store-003,Patna,Bihar,East,High Street,Tier 3
+4,Store-004,Kolkata,West Bengal,East,Standalone,Tier 1
+5,Store-005,Bhubaneswar,Odisha,East,Outlet,Tier 3
+6,Store-006,Patna,Bihar,East,Outlet,Tier 2
+7,Store-007,Warangal,Telangana,South,Mall,Tier 1
+8,Store-008,Hyderabad,Telangana,South,Outlet,Tier 2
+9,Store-009,Surat,Gujarat,West,High Street,Tier 1
+10,Store-010,Lucknow,Uttar Pradesh,North,Standalone,Tier 2
+11,Store-011,Nagpur,Maharashtra,West,Mall,Tier 1
+12,Store-012,Mumbai,Maharashtra,West,High Street,Tier 2
+13,Store-013,New Delhi,Delhi,North,Standalone,Tier 3
+14,Store-014,Mumbai,Maharashtra,West,High Street,Tier 2
+15,Store-015,Hyderabad,Telangana,South,Mall,Tier 3
+16,Store-016,Bhubaneswar,Odisha,East,High Street,Tier 3
+17,Store-017,Noida,Uttar Pradesh,North,Outlet,Tier 3
+18,Store-018,New Delhi,Delhi,North,Outlet,Tier 2
+19,Store-019,New Delhi,Delhi,North,Standalone,Tier 3
+20,Store-020,Kolkata,West Bengal,East,High Street,Tier 3
+21,Store-021,Bhubaneswar,Odisha,East,Outlet,Tier 3
+22,Store-022,Vadodara,Gujarat,West,Standalone,Tier 2
+23,Store-023,Surat,Gujarat,West,Standalone,Tier 3
+24,Store-024,New Delhi,Delhi,North,Mall,Tier 1
+25,Store-025,Jaipur,Rajasthan,North,High Street,Tier 1
+26,Store-026,New Delhi,Delhi,North,Mall,Tier 1
+27,Store-027,Cuttack,Odisha,East,Standalone,Tier 3
+28,Store-028,Thiruvananthapuram,Kerala,South,Outlet,Tier 3
+29,Store-029,Bhubaneswar,Odisha,East,Standalone,Tier 3
+30,Store-030,Jaipur,Rajasthan,North,High Street,Tier 3
+31,Store-031,Cuttack,Odisha,East,High Street,Tier 3
+32,Store-032,Warangal,Telangana,South,Standalone,Tier 3
+33,Store-033,Kolkata,West Bengal,East,Mall,Tier 3
+34,Store-034,Warangal,Telangana,South,Standalone,Tier 1
+35,Store-035,Kolkata,West Bengal,East,Outlet,Tier 1
+36,Store-036,Bhubaneswar,Odisha,East,High Street,Tier 3
+37,Store-037,Jaipur,Rajasthan,North,Standalone,Tier 1
+38,Store-038,Kanpur,Uttar Pradesh,North,Standalone,Tier 3
+39,Store-039,Kolkata,West Bengal,East,Mall,Tier 1
+40,Store-040,Kannur,Kerala,South,Outlet,Tier 3

@@ -1,0 +1,221 @@
+employee_id,employee_name,store_id,department,hire_date
+1,Diya Rao,6,Sales,2022-02-12
+2,Sneha Das,40,Manager,2021-09-16
+3,Aryan Singh,21,Analyst,2025-08-15
+4,Rahul Das,11,Operations,2019-10-17
+5,Pooja Khan,1,Sales,2024-04-09
+6,Ishaan Gupta,31,Inventory,2023-05-15
+7,Pooja Bhat,24,Manager,2020-07-01
+8,Krishna Gupta,36,Operations,2023-05-02
+9,Maya Bhat,12,Inventory,2021-09-24
+10,Pooja Gupta,33,Sales,2019-01-24
+11,Arjun Singh,37,Manager,2019-06-21
+12,Meera Bhat,34,Manager,2022-09-09
+13,Sneha Patel,35,Analyst,2020-12-18
+14,Krishna Bhat,34,Operations,2025-07-26
+15,Pooja Gupta,29,Operations,2024-07-15
+16,Rohan Mishra,24,Operations,2025-11-29
+17,Ishaan Sharma,38,Manager,2023-12-07
+18,Meera Gupta,20,Operations,2024-06-03
+19,Kabir Iyer,36,Analyst,2024-06-28
+20,Maya Sharma,5,Operations,2019-06-13
+21,Yash Patel,21,Customer Service,2025-01-11
+22,Sneha Joseph,11,Customer Service,2024-11-27
+23,Aisha Mishra,7,Analyst,2020-06-14
+24,Nikhil Naik,37,Inventory,2023-11-07
+25,Varun Bhat,1,Manager,2022-09-08
+26,Aryan Nair,14,Operations,2019-04-06
+27,Arjun Iyer,12,Sales,2024-12-14
+28,Yash Kumar,30,Analyst,2019-02-01
+29,Diya Mishra,10,Analyst,2023-05-07
+30,Ishaan Das,36,Customer Service,2022-10-03
+31,Rohan Gupta,20,Inventory,2022-10-18
+32,Sneha Verma,24,Inventory,2023-06-02
+33,Sanjay Kumar,5,Analyst,2024-07-28
+34,Vikram Kumar,12,Manager,2022-08-11
+35,Aisha Rao,15,Manager,2024-04-08
+36,Kavya Rao,13,Customer Service,2024-02-24
+37,Shreya Gupta,23,Inventory,2021-08-12
+38,Meera Kumar,24,Manager,2021-09-14
+39,Kabir Pillai,33,Sales,2020-05-21
+40,Siddharth Singh,14,Analyst,2019-03-23
+41,Aarav Iyer,13,Inventory,2025-05-05
+42,Ishaan Kumar,36,Inventory,2021-02-21
+43,Kavya Chowdhury,22,Analyst,2022-11-11
+44,Riya Gupta,39,Sales,2022-06-11
+45,Sanjay Sharma,19,Manager,2023-04-01
+46,Kiran Menon,18,Analyst,2020-08-14
+47,Aisha Singh,23,Customer Service,2025-10-29
+48,Meera Menon,16,Analyst,2023-08-09
+49,Varun Joseph,30,Manager,2021-11-09
+50,Diya Thomas,8,Sales,2023-11-13
+51,Aisha Rao,7,Operations,2021-12-14
+52,Aisha Gupta,7,Sales,2019-06-20
+53,Shreya Reddy,27,Manager,2023-05-03
+54,Aarav Bhat,10,Inventory,2021-04-19
+55,Kabir Chowdhury,15,Manager,2023-02-13
+56,Kabir Nair,13,Inventory,2019-01-30
+57,Arjun Das,22,Inventory,2022-09-18
+58,Arjun Bhat,35,Manager,2021-09-14
+59,Kavya Reddy,33,Inventory,2021-07-20
+60,Kiran Thomas,17,Analyst,2020-08-24
+61,Aryan Menon,3,Sales,2023-09-16
+62,Aditya Thomas,29,Sales,2021-05-15
+63,Maya Rao,17,Inventory,2024-06-21
+64,Maya Naik,20,Inventory,2022-11-22
+65,Meera Mishra,3,Operations,2025-11-25
+66,Sana Khan,25,Operations,2025-10-08
+67,Rahul Chowdhury,22,Sales,2021-03-07
+68,Ananya Menon,27,Customer Service,2022-10-27
+69,Siddharth Iyer,32,Customer Service,2025-12-06
+70,Arjun Naik,1,Analyst,2019-11-13
+71,Shreya Das,5,Manager,2020-07-23
+72,Riya Sharma,6,Inventory,2024-12-12
+73,Akash Khan,31,Sales,2020-02-21
+74,Meera Nair,20,Operations,2021-05-04
+75,Krishna Pillai,35,Manager,2019-12-14
+76,Akash Khan,13,Inventory,2022-04-01
+77,Nikhil Bhat,30,Manager,2024-12-14
+78,Zoya Rao,15,Manager,2025-02-18
+79,Vikram Bhat,27,Operations,2022-07-22
+80,Aarav Chowdhury,29,Inventory,2024-11-16
+81,Meera Pillai,30,Operations,2024-06-12
+82,Siddharth Pillai,30,Analyst,2023-07-13
+83,Aisha Das,24,Analyst,2023-12-08
+84,Aisha Joseph,30,Operations,2021-03-02
+85,Aarav Naik,25,Sales,2021-05-04
+86,Akash Iyer,4,Inventory,2019-02-27
+87,Siddharth Kumar,17,Inventory,2022-08-01
+88,Pooja Naik,22,Analyst,2023-04-17
+89,Meera Verma,23,Analyst,2025-03-10
+90,Rohan Sharma,21,Customer Service,2021-07-30
+91,Krishna Khan,1,Operations,2023-12-05
+92,Aryan Iyer,2,Customer Service,2020-03-12
+93,Sana Patel,5,Analyst,2024-09-07
+94,Varun Reddy,13,Customer Service,2024-01-08
+95,Krishna Sharma,15,Sales,2020-03-12
+96,Aditya Bhat,40,Customer Service,2023-08-29
+97,Arjun Iyer,3,Manager,2024-01-23
+98,Arjun Khan,4,Manager,2022-03-10
+99,Diya Gupta,12,Operations,2019-03-08
+100,Vikram Thomas,39,Manager,2019-02-28
+101,Ishaan Gupta,23,Manager,2020-12-09
+102,Aarav Khan,36,Analyst,2024-09-27
+103,Krishna Singh,18,Inventory,2019-03-27
+104,Aisha Chowdhury,8,Customer Service,2019-11-14
+105,Shreya Patel,8,Manager,2019-05-20
+106,Nikhil Khan,4,Customer Service,2019-08-14
+107,Aditya Naik,26,Operations,2019-07-07
+108,Sana Sharma,10,Sales,2025-01-11
+109,Ananya Chowdhury,2,Inventory,2022-11-23
+110,Vikram Das,36,Manager,2022-07-01
+111,Rohan Rao,22,Analyst,2023-11-26
+112,Zoya Thomas,24,Analyst,2020-06-16
+113,Aditya Kumar,11,Operations,2022-01-03
+114,Shreya Menon,13,Customer Service,2024-08-20
+115,Pooja Thomas,1,Manager,2020-07-14
+116,Varun Rao,31,Customer Service,2019-04-16
+117,Sanjay Kumar,16,Customer Service,2023-02-16
+118,Neha Pillai,2,Manager,2021-04-19
+119,Rahul Reddy,25,Inventory,2023-08-14
+120,Krishna Verma,27,Customer Service,2024-03-10
+121,Sneha Iyer,31,Inventory,2023-07-18
+122,Ananya Rao,39,Customer Service,2019-07-27
+123,Zoya Iyer,25,Customer Service,2024-06-20
+124,Ananya Verma,36,Operations,2021-01-07
+125,Siddharth Joseph,21,Inventory,2022-05-09
+126,Arjun Sharma,13,Operations,2021-03-11
+127,Ishaan Thomas,3,Operations,2021-10-16
+128,Krishna Khan,20,Manager,2024-12-19
+129,Maya Iyer,25,Operations,2023-10-30
+130,Kabir Menon,33,Customer Service,2019-12-20
+131,Arjun Mishra,14,Inventory,2023-08-18
+132,Neha Rao,7,Manager,2020-01-23
+133,Vikram Thomas,34,Manager,2024-11-29
+134,Rahul Khan,32,Operations,2023-10-22
+135,Krishna Rao,8,Analyst,2024-02-03
+136,Rahul Iyer,20,Sales,2024-05-16
+137,Arjun Pillai,5,Analyst,2020-11-04
+138,Aditya Das,7,Inventory,2021-12-13
+139,Zoya Joseph,3,Inventory,2022-02-20
+140,Rahul Khan,12,Operations,2021-11-28
+141,Maya Menon,6,Manager,2023-01-30
+142,Zoya Patel,15,Operations,2022-10-11
+143,Akash Pillai,38,Operations,2023-03-09
+144,Rahul Das,11,Inventory,2024-12-08
+145,Sneha Nair,24,Inventory,2024-01-29
+146,Shreya Rao,30,Inventory,2022-11-17
+147,Rohan Iyer,37,Customer Service,2025-01-20
+148,Yash Sharma,37,Analyst,2022-07-23
+149,Kiran Bhat,10,Inventory,2019-08-02
+150,Shreya Sharma,29,Operations,2021-09-13
+151,Akash Mishra,17,Customer Service,2024-06-01
+152,Nikhil Patel,11,Analyst,2019-04-22
+153,Diya Kumar,31,Manager,2023-02-07
+154,Sanjay Thomas,35,Manager,2020-03-27
+155,Krishna Rao,2,Analyst,2024-11-23
+156,Shreya Reddy,12,Sales,2022-12-23
+157,Siddharth Das,13,Manager,2021-07-16
+158,Vikram Naik,1,Analyst,2024-01-06
+159,Rohan Sharma,20,Analyst,2019-01-17
+160,Siddharth Khan,18,Operations,2019-10-03
+161,Krishna Khan,37,Inventory,2022-06-12
+162,Aryan Mishra,3,Analyst,2019-10-27
+163,Maya Rao,13,Inventory,2025-10-31
+164,Shreya Thomas,36,Customer Service,2021-09-01
+165,Pooja Sharma,5,Operations,2023-12-21
+166,Varun Thomas,9,Operations,2025-03-07
+167,Zoya Chowdhury,36,Inventory,2019-06-12
+168,Sana Chowdhury,23,Analyst,2020-01-24
+169,Riya Naik,34,Sales,2024-06-05
+170,Neha Sharma,26,Sales,2021-04-07
+171,Maya Gupta,24,Manager,2025-05-29
+172,Kiran Chowdhury,39,Inventory,2024-08-26
+173,Arjun Chowdhury,12,Inventory,2023-06-24
+174,Kiran Rao,14,Inventory,2021-09-22
+175,Shreya Bhat,27,Customer Service,2024-03-09
+176,Arjun Rao,7,Operations,2023-10-08
+177,Aisha Khan,36,Operations,2025-06-29
+178,Shreya Joseph,40,Operations,2023-03-16
+179,Vikram Gupta,3,Inventory,2025-03-29
+180,Yash Reddy,32,Manager,2022-10-04
+181,Krishna Verma,11,Inventory,2023-03-11
+182,Aisha Khan,9,Sales,2022-05-24
+183,Siddharth Singh,32,Analyst,2024-10-08
+184,Riya Bhat,34,Analyst,2023-01-08
+185,Neha Gupta,28,Manager,2020-07-07
+186,Kavya Khan,23,Operations,2024-01-18
+187,Aarav Mishra,10,Manager,2019-07-23
+188,Riya Rao,7,Inventory,2021-01-27
+189,Krishna Chowdhury,23,Customer Service,2020-12-11
+190,Ishaan Gupta,14,Sales,2025-01-29
+191,Rahul Mishra,34,Operations,2021-02-13
+192,Neha Khan,33,Inventory,2019-06-06
+193,Rahul Nair,7,Manager,2024-03-16
+194,Sneha Naik,4,Customer Service,2020-03-06
+195,Maya Thomas,9,Customer Service,2019-08-05
+196,Aditya Khan,22,Sales,2022-10-24
+197,Siddharth Patel,17,Manager,2019-01-31
+198,Pooja Verma,35,Inventory,2022-11-12
+199,Kabir Verma,33,Operations,2020-08-21
+200,Maya Naik,9,Manager,2022-08-23
+201,Aisha Pillai,19,Inventory,2022-11-13
+202,Sneha Pillai,29,Customer Service,2020-02-13
+203,Ananya Joseph,2,Analyst,2024-07-28
+204,Kabir Thomas,38,Manager,2024-03-20
+205,Varun Iyer,27,Operations,2023-10-28
+206,Yash Menon,28,Sales,2023-01-01
+207,Akash Sharma,32,Customer Service,2025-07-11
+208,Arjun Joseph,25,Manager,2024-06-05
+209,Nikhil Reddy,37,Manager,2021-11-10
+210,Meera Patel,32,Customer Service,2020-09-05
+211,Riya Verma,38,Manager,2024-02-04
+212,Sanjay Singh,40,Manager,2021-12-08
+213,Meera Chowdhury,17,Customer Service,2019-02-15
+214,Vikram Kumar,20,Inventory,2019-07-24
+215,Nikhil Gupta,21,Inventory,2025-04-04
+216,Ananya Das,4,Analyst,2024-04-21
+217,Arjun Sharma,23,Operations,2024-01-03
+218,Aarav Das,14,Manager,2022-02-20
+219,Zoya Iyer,27,Sales,2024-08-24
+220,Sneha Gupta,28,Inventory,2024-04-29

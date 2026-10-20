@@ -1,0 +1,801 @@
+product_id,product_name,category,brand,unit_cost,unit_price,product_status
+1,Everest Home-Appliances Model-0001,Home Appliances,Everest,667.35,770.89,Active
+2,Urban Kitchen Model-0002,Kitchen,Urban,68.56,81.72,Active
+3,Prime Kitchen Model-0003,Kitchen,Prime,128.7,186.32,Active
+4,Everest Stationery Model-0004,Stationery,Everest,36.87,45.11,Active
+5,Core Electronics Model-0005,Electronics,Core,336.15,478.97,Active
+6,Urban Books Model-0006,Books,Urban,366.61,567.25,Active
+7,Vertex Home-Appliances Model-0007,Home Appliances,Vertex,215.73,250.55,Discontinued
+8,Everest Beauty Model-0008,Beauty,Everest,222.4,342.77,Discontinued
+9,Orbit Home-Appliances Model-0009,Home Appliances,Orbit,98.89,160.44,Active
+10,Maxwell Computers Model-0010,Computers,Maxwell,625.74,833.28,Active
+11,Orbit Kitchen Model-0011,Kitchen,Orbit,704.08,1118.16,Active
+12,Orbit Sports Model-0012,Sports,Orbit,463.33,648.23,Active
+13,Vertex Furniture Model-0013,Furniture,Vertex,450.62,574.54,Active
+14,Apex Electronics Model-0014,Electronics,Apex,116.28,161.04,Active
+15,Maxwell Kitchen Model-0015,Kitchen,Maxwell,538.76,902.8,Active
+16,Core Home-Appliances Model-0016,Home Appliances,Core,439.66,504.02,Active
+17,Zenith Computers Model-0017,Computers,Zenith,184.26,312.31,Active
+18,Apex Stationery Model-0018,Stationery,Apex,458.61,544.81,Active
+19,Maxwell Grocery Model-0019,Grocery,Maxwell,205.9,231.11,Discontinued
+20,Core Furniture Model-0020,Furniture,Core,372.77,628.27,Active
+21,Maxwell Kitchen Model-0021,Kitchen,Maxwell,329.07,545.31,Active
+22,Nova Furniture Model-0022,Furniture,Nova,193.23,289.87,Discontinued
+23,Maxwell Grocery Model-0023,Grocery,Maxwell,790.73,1254.99,Active
+24,Orbit Furniture Model-0024,Furniture,Orbit,530.86,627.82,Active
+25,Urban Computers Model-0025,Computers,Urban,228.29,410.05,Active
+26,Orbit Grocery Model-0026,Grocery,Orbit,161.65,190.8,Active
+27,Urban Electronics Model-0027,Electronics,Urban,720.68,1301.0,Active
+28,Nova Grocery Model-0028,Grocery,Nova,81.99,101.5,Active
+29,Orbit Stationery Model-0029,Stationery,Orbit,721.31,989.37,Discontinued
+30,Zenith Electronics Model-0030,Electronics,Zenith,465.53,672.12,Discontinued
+31,Maxwell Beauty Model-0031,Beauty,Maxwell,575.8,883.55,Active
+32,Urban Fashion Model-0032,Fashion,Urban,592.81,706.63,Discontinued
+33,Urban Grocery Model-0033,Grocery,Urban,562.82,643.36,Active
+34,Everest Electronics Model-0034,Electronics,Everest,105.38,148.04,Active
+35,Apex Furniture Model-0035,Furniture,Apex,717.14,1046.46,Active
+36,Maxwell Stationery Model-0036,Stationery,Maxwell,628.98,834.37,Active
+37,Zenith Electronics Model-0037,Electronics,Zenith,762.16,1183.35,Active
+38,Orbit Kitchen Model-0038,Kitchen,Orbit,586.32,999.83,Discontinued
+39,Everest Computers Model-0039,Computers,Everest,178.2,251.47,Discontinued
+40,Zenith Fashion Model-0040,Fashion,Zenith,207.46,294.12,Active
+41,Orbit Sports Model-0041,Sports,Orbit,648.13,818.54,Active
+42,Core Electronics Model-0042,Electronics,Core,487.9,794.57,Active
+43,Maxwell Stationery Model-0043,Stationery,Maxwell,497.37,898.69,Discontinued
+44,Orbit Beauty Model-0044,Beauty,Orbit,395.66,607.04,Active
+45,Vertex Mobile-Accessories Model-0045,Mobile Accessories,Vertex,557.29,796.83,Active
+46,Zenith Mobile-Accessories Model-0046,Mobile Accessories,Zenith,730.68,828.4,Active
+47,Orbit Home-Appliances Model-0047,Home Appliances,Orbit,543.06,975.05,Active
+48,Urban Kitchen Model-0048,Kitchen,Urban,28.4,49.07,Discontinued
+49,Zenith Mobile-Accessories Model-0049,Mobile Accessories,Zenith,55.32,95.08,Active
+50,Nova Grocery Model-0050,Grocery,Nova,275.05,363.29,Active
+51,Apex Mobile-Accessories Model-0051,Mobile Accessories,Apex,573.53,1012.65,Discontinued
+52,Core Furniture Model-0052,Furniture,Core,667.59,1044.69,Active
+53,Apex Sports Model-0053,Sports,Apex,534.19,652.03,Discontinued
+54,Orbit Furniture Model-0054,Furniture,Orbit,226.89,266.52,Discontinued
+55,Zenith Home-Appliances Model-0055,Home Appliances,Zenith,567.89,756.53,Discontinued
+56,Zenith Computers Model-0056,Computers,Zenith,187.2,338.24,Active
+57,Urban Beauty Model-0057,Beauty,Urban,485.79,723.5,Discontinued
+58,Prime Beauty Model-0058,Beauty,Prime,316.74,478.92,Discontinued
+59,Orbit Books Model-0059,Books,Orbit,28.07,50.92,Discontinued
+60,Vertex Fashion Model-0060,Fashion,Vertex,605.65,808.79,Active
+61,Core Fashion Model-0061,Fashion,Core,700.35,1248.92,Discontinued
+62,Vertex Grocery Model-0062,Grocery,Vertex,548.93,714.37,Active
+63,Everest Grocery Model-0063,Grocery,Everest,570.15,966.89,Active
+64,Maxwell Fashion Model-0064,Fashion,Maxwell,209.98,298.11,Active
+65,Urban Fashion Model-0065,Fashion,Urban,212.72,353.05,Discontinued
+66,Apex Beauty Model-0066,Beauty,Apex,78.75,111.17,Active
+67,Prime Mobile-Accessories Model-0067,Mobile Accessories,Prime,465.9,816.76,Discontinued
+68,Orbit Sports Model-0068,Sports,Orbit,36.31,49.4,Active
+69,Urban Fashion Model-0069,Fashion,Urban,507.17,839.86,Active
+70,Urban Mobile-Accessories Model-0070,Mobile Accessories,Urban,85.28,130.48,Active
+71,Orbit Home-Appliances Model-0071,Home Appliances,Orbit,495.22,607.03,Active
+72,Vertex Grocery Model-0072,Grocery,Vertex,462.74,594.73,Active
+73,Vertex Electronics Model-0073,Electronics,Vertex,402.65,507.78,Discontinued
+74,Vertex Stationery Model-0074,Stationery,Vertex,156.55,276.66,Active
+75,Urban Home-Appliances Model-0075,Home Appliances,Urban,602.28,683.75,Active
+76,Urban Electronics Model-0076,Electronics,Urban,546.96,681.27,Active
+77,Nova Books Model-0077,Books,Nova,481.45,624.97,Active
+78,Nova Grocery Model-0078,Grocery,Nova,482.34,640.92,Active
+79,Apex Fashion Model-0079,Fashion,Apex,499.83,771.6,Active
+80,Everest Furniture Model-0080,Furniture,Everest,328.5,442.16,Active
+81,Vertex Beauty Model-0081,Beauty,Vertex,629.16,1066.04,Discontinued
+82,Core Books Model-0082,Books,Core,190.64,303.28,Active
+83,Prime Stationery Model-0083,Stationery,Prime,714.17,1300.44,Active
+84,Orbit Stationery Model-0084,Stationery,Orbit,261.09,467.17,Active
+85,Urban Sports Model-0085,Sports,Urban,709.97,958.61,Active
+86,Maxwell Sports Model-0086,Sports,Maxwell,155.79,221.9,Discontinued
+87,Everest Electronics Model-0087,Electronics,Everest,241.62,389.14,Discontinued
+88,Orbit Sports Model-0088,Sports,Orbit,293.36,377.84,Active
+89,Vertex Electronics Model-0089,Electronics,Vertex,468.45,780.39,Active
+90,Orbit Stationery Model-0090,Stationery,Orbit,164.94,227.27,Active
+91,Vertex Furniture Model-0091,Furniture,Vertex,196.57,267.99,Discontinued
+92,Apex Grocery Model-0092,Grocery,Apex,711.32,1149.82,Active
+93,Urban Electronics Model-0093,Electronics,Urban,428.2,753.36,Active
+94,Urban Computers Model-0094,Computers,Urban,110.45,135.2,Discontinued
+95,Zenith Sports Model-0095,Sports,Zenith,691.01,1252.57,Discontinued
+96,Nova Books Model-0096,Books,Nova,445.18,562.87,Active
+97,Orbit Books Model-0097,Books,Orbit,768.76,938.16,Active
+98,Vertex Kitchen Model-0098,Kitchen,Vertex,170.37,262.77,Discontinued
+99,Nova Furniture Model-0099,Furniture,Nova,760.85,1340.43,Active
+100,Core Grocery Model-0100,Grocery,Core,223.66,350.5,Discontinued
+101,Nova Grocery Model-0101,Grocery,Nova,113.34,148.59,Active
+102,Maxwell Home-Appliances Model-0102,Home Appliances,Maxwell,224.7,307.0,Active
+103,Maxwell Books Model-0103,Books,Maxwell,69.3,98.19,Active
+104,Orbit Mobile-Accessories Model-0104,Mobile Accessories,Orbit,299.52,462.65,Active
+105,Prime Stationery Model-0105,Stationery,Prime,715.93,1290.06,Active
+106,Zenith Home-Appliances Model-0106,Home Appliances,Zenith,704.02,1129.51,Active
+107,Nova Stationery Model-0107,Stationery,Nova,477.93,617.33,Active
+108,Nova Mobile-Accessories Model-0108,Mobile Accessories,Nova,656.46,842.4,Active
+109,Vertex Computers Model-0109,Computers,Vertex,394.93,545.15,Active
+110,Core Furniture Model-0110,Furniture,Core,778.9,1124.51,Active
+111,Zenith Sports Model-0111,Sports,Zenith,567.36,776.25,Active
+112,Zenith Stationery Model-0112,Stationery,Zenith,697.23,1147.98,Discontinued
+113,Nova Kitchen Model-0113,Kitchen,Nova,750.08,1302.97,Discontinued
+114,Orbit Mobile-Accessories Model-0114,Mobile Accessories,Orbit,306.37,486.43,Active
+115,Prime Furniture Model-0115,Furniture,Prime,529.28,713.14,Discontinued
+116,Apex Mobile-Accessories Model-0116,Mobile Accessories,Apex,600.85,769.11,Discontinued
+117,Everest Electronics Model-0117,Electronics,Everest,562.83,740.4,Active
+118,Everest Grocery Model-0118,Grocery,Everest,282.3,419.07,Active
+119,Apex Stationery Model-0119,Stationery,Apex,399.85,614.03,Discontinued
+120,Vertex Grocery Model-0120,Grocery,Vertex,538.47,983.34,Discontinued
+121,Nova Books Model-0121,Books,Nova,659.37,1028.59,Active
+122,Core Home-Appliances Model-0122,Home Appliances,Core,604.66,1106.36,Active
+123,Prime Stationery Model-0123,Stationery,Prime,293.37,343.31,Discontinued
+124,Urban Kitchen Model-0124,Kitchen,Urban,500.05,780.0,Active
+125,Nova Stationery Model-0125,Stationery,Nova,62.3,84.79,Discontinued
+126,Everest Stationery Model-0126,Stationery,Everest,113.69,128.9,Active
+127,Apex Computers Model-0127,Computers,Apex,191.46,300.51,Active
+128,Everest Sports Model-0128,Sports,Everest,230.37,332.97,Discontinued
+129,Urban Stationery Model-0129,Stationery,Urban,603.69,999.32,Active
+130,Prime Computers Model-0130,Computers,Prime,82.7,140.36,Active
+131,Vertex Stationery Model-0131,Stationery,Vertex,640.48,858.49,Active
+132,Nova Fashion Model-0132,Fashion,Nova,238.77,367.18,Active
+133,Prime Beauty Model-0133,Beauty,Prime,461.65,727.14,Active
+134,Vertex Electronics Model-0134,Electronics,Vertex,514.47,810.38,Discontinued
+135,Nova Mobile-Accessories Model-0135,Mobile Accessories,Nova,95.77,134.57,Active
+136,Everest Kitchen Model-0136,Kitchen,Everest,300.0,352.57,Active
+137,Urban Electronics Model-0137,Electronics,Urban,381.18,474.01,Discontinued
+138,Maxwell Grocery Model-0138,Grocery,Maxwell,545.92,838.2,Active
+139,Prime Stationery Model-0139,Stationery,Prime,256.03,469.25,Active
+140,Everest Grocery Model-0140,Grocery,Everest,419.9,773.61,Active
+141,Vertex Books Model-0141,Books,Vertex,392.16,548.41,Active
+142,Prime Computers Model-0142,Computers,Prime,83.45,152.21,Active
+143,Core Grocery Model-0143,Grocery,Core,552.51,830.03,Discontinued
+144,Orbit Books Model-0144,Books,Orbit,566.24,998.09,Active
+145,Urban Beauty Model-0145,Beauty,Urban,558.32,1009.31,Active
+146,Nova Sports Model-0146,Sports,Nova,33.68,60.64,Discontinued
+147,Urban Beauty Model-0147,Beauty,Urban,631.5,899.53,Active
+148,Vertex Stationery Model-0148,Stationery,Vertex,250.43,331.14,Discontinued
+149,Orbit Furniture Model-0149,Furniture,Orbit,107.1,150.2,Active
+150,Everest Grocery Model-0150,Grocery,Everest,249.53,328.03,Discontinued
+151,Zenith Books Model-0151,Books,Zenith,343.53,424.1,Active
+152,Urban Sports Model-0152,Sports,Urban,317.98,446.47,Active
+153,Maxwell Home-Appliances Model-0153,Home Appliances,Maxwell,500.62,641.41,Active
+154,Everest Stationery Model-0154,Stationery,Everest,139.81,170.09,Active
+155,Urban Electronics Model-0155,Electronics,Urban,201.8,328.15,Active
+156,Urban Sports Model-0156,Sports,Urban,462.68,603.54,Active
+157,Vertex Grocery Model-0157,Grocery,Vertex,342.2,466.34,Active
+158,Core Furniture Model-0158,Furniture,Core,361.56,617.56,Active
+159,Vertex Sports Model-0159,Sports,Vertex,513.25,691.53,Discontinued
+160,Apex Fashion Model-0160,Fashion,Apex,592.2,961.74,Discontinued
+161,Apex Furniture Model-0161,Furniture,Apex,514.34,802.58,Active
+162,Nova Computers Model-0162,Computers,Nova,289.07,508.97,Active
+163,Core Stationery Model-0163,Stationery,Core,285.07,358.98,Active
+164,Apex Grocery Model-0164,Grocery,Apex,84.19,151.33,Active
+165,Core Fashion Model-0165,Fashion,Core,757.23,1024.62,Active
+166,Nova Electronics Model-0166,Electronics,Nova,114.69,149.54,Active
+167,Apex Kitchen Model-0167,Kitchen,Apex,768.52,1147.22,Active
+168,Orbit Computers Model-0168,Computers,Orbit,233.41,387.94,Active
+169,Prime Sports Model-0169,Sports,Prime,46.58,77.71,Active
+170,Zenith Mobile-Accessories Model-0170,Mobile Accessories,Zenith,531.65,707.31,Active
+171,Vertex Stationery Model-0171,Stationery,Vertex,20.78,23.98,Active
+172,Zenith Stationery Model-0172,Stationery,Zenith,795.59,1457.62,Active
+173,Core Electronics Model-0173,Electronics,Core,508.94,816.69,Discontinued
+174,Urban Kitchen Model-0174,Kitchen,Urban,430.2,684.48,Discontinued
+175,Prime Sports Model-0175,Sports,Prime,344.66,409.71,Active
+176,Prime Computers Model-0176,Computers,Prime,149.91,212.18,Active
+177,Vertex Furniture Model-0177,Furniture,Vertex,526.55,621.58,Active
+178,Everest Grocery Model-0178,Grocery,Everest,476.53,771.8,Active
+179,Urban Kitchen Model-0179,Kitchen,Urban,367.23,549.97,Active
+180,Zenith Furniture Model-0180,Furniture,Zenith,456.74,653.78,Active
+181,Vertex Furniture Model-0181,Furniture,Vertex,518.54,606.86,Active
+182,Nova Mobile-Accessories Model-0182,Mobile Accessories,Nova,659.46,1212.84,Active
+183,Nova Books Model-0183,Books,Nova,65.92,119.9,Active
+184,Orbit Kitchen Model-0184,Kitchen,Orbit,475.96,852.78,Active
+185,Everest Computers Model-0185,Computers,Everest,435.39,739.08,Active
+186,Zenith Kitchen Model-0186,Kitchen,Zenith,544.88,972.62,Active
+187,Zenith Fashion Model-0187,Fashion,Zenith,513.3,640.32,Active
+188,Apex Electronics Model-0188,Electronics,Apex,647.32,1101.97,Discontinued
+189,Maxwell Home-Appliances Model-0189,Home Appliances,Maxwell,634.46,994.3,Discontinued
+190,Maxwell Books Model-0190,Books,Maxwell,599.62,790.39,Active
+191,Vertex Mobile-Accessories Model-0191,Mobile Accessories,Vertex,53.09,65.59,Discontinued
+192,Vertex Electronics Model-0192,Electronics,Vertex,370.03,482.1,Active
+193,Urban Furniture Model-0193,Furniture,Urban,272.37,417.23,Active
+194,Nova Stationery Model-0194,Stationery,Nova,738.86,995.34,Active
+195,Orbit Computers Model-0195,Computers,Orbit,743.79,884.59,Active
+196,Zenith Grocery Model-0196,Grocery,Zenith,601.34,679.34,Discontinued
+197,Orbit Kitchen Model-0197,Kitchen,Orbit,140.47,166.58,Active
+198,Prime Computers Model-0198,Computers,Prime,728.71,850.43,Discontinued
+199,Apex Home-Appliances Model-0199,Home Appliances,Apex,714.34,878.62,Active
+200,Core Furniture Model-0200,Furniture,Core,617.72,790.5,Active
+201,Maxwell Books Model-0201,Books,Maxwell,21.77,27.02,Active
+202,Nova Fashion Model-0202,Fashion,Nova,338.44,525.22,Discontinued
+203,Zenith Computers Model-0203,Computers,Zenith,106.08,140.31,Discontinued
+204,Orbit Home-Appliances Model-0204,Home Appliances,Orbit,732.28,879.77,Active
+205,Nova Beauty Model-0205,Beauty,Nova,249.62,284.71,Active
+206,Zenith Kitchen Model-0206,Kitchen,Zenith,35.21,58.32,Active
+207,Orbit Stationery Model-0207,Stationery,Orbit,98.5,165.34,Discontinued
+208,Maxwell Kitchen Model-0208,Kitchen,Maxwell,484.35,811.59,Active
+209,Prime Grocery Model-0209,Grocery,Prime,406.68,596.77,Active
+210,Apex Beauty Model-0210,Beauty,Apex,20.42,33.25,Active
+211,Urban Books Model-0211,Books,Urban,448.31,534.95,Active
+212,Apex Mobile-Accessories Model-0212,Mobile Accessories,Apex,528.69,747.09,Active
+213,Maxwell Kitchen Model-0213,Kitchen,Maxwell,367.95,493.05,Active
+214,Everest Books Model-0214,Books,Everest,208.25,384.96,Active
+215,Nova Furniture Model-0215,Furniture,Nova,70.58,126.13,Active
+216,Apex Computers Model-0216,Computers,Apex,628.38,825.17,Active
+217,Maxwell Kitchen Model-0217,Kitchen,Maxwell,401.1,664.41,Active
+218,Zenith Sports Model-0218,Sports,Zenith,541.85,901.15,Active
+219,Vertex Grocery Model-0219,Grocery,Vertex,647.81,786.38,Active
+220,Everest Home-Appliances Model-0220,Home Appliances,Everest,113.95,134.12,Active
+221,Maxwell Sports Model-0221,Sports,Maxwell,564.36,692.84,Active
+222,Zenith Grocery Model-0222,Grocery,Zenith,406.18,596.73,Active
+223,Maxwell Computers Model-0223,Computers,Maxwell,164.68,302.86,Active
+224,Zenith Books Model-0224,Books,Zenith,792.1,1193.44,Discontinued
+225,Prime Beauty Model-0225,Beauty,Prime,711.06,1067.8,Active
+226,Everest Beauty Model-0226,Beauty,Everest,129.86,233.01,Discontinued
+227,Zenith Sports Model-0227,Sports,Zenith,347.12,415.21,Active
+228,Vertex Mobile-Accessories Model-0228,Mobile Accessories,Vertex,699.29,1073.47,Active
+229,Prime Furniture Model-0229,Furniture,Prime,440.81,715.18,Discontinued
+230,Maxwell Kitchen Model-0230,Kitchen,Maxwell,245.52,318.46,Active
+231,Zenith Beauty Model-0231,Beauty,Zenith,544.53,983.64,Active
+232,Urban Grocery Model-0232,Grocery,Urban,193.98,332.21,Discontinued
+233,Core Computers Model-0233,Computers,Core,234.52,405.86,Active
+234,Prime Electronics Model-0234,Electronics,Prime,491.0,566.43,Active
+235,Core Mobile-Accessories Model-0235,Mobile Accessories,Core,51.83,67.99,Active
+236,Vertex Mobile-Accessories Model-0236,Mobile Accessories,Vertex,525.86,847.06,Discontinued
+237,Urban Books Model-0237,Books,Urban,190.57,228.34,Discontinued
+238,Urban Grocery Model-0238,Grocery,Urban,251.92,378.86,Active
+239,Nova Books Model-0239,Books,Nova,140.09,250.09,Active
+240,Nova Books Model-0240,Books,Nova,604.68,855.28,Active
+241,Prime Beauty Model-0241,Beauty,Prime,566.16,765.38,Discontinued
+242,Maxwell Home-Appliances Model-0242,Home Appliances,Maxwell,92.46,115.52,Discontinued
+243,Core Mobile-Accessories Model-0243,Mobile Accessories,Core,733.03,1280.14,Active
+244,Zenith Fashion Model-0244,Fashion,Zenith,371.31,654.68,Active
+245,Vertex Furniture Model-0245,Furniture,Vertex,409.82,619.83,Active
+246,Maxwell Kitchen Model-0246,Kitchen,Maxwell,570.21,699.54,Active
+247,Orbit Books Model-0247,Books,Orbit,129.84,194.2,Discontinued
+248,Orbit Furniture Model-0248,Furniture,Orbit,450.9,536.27,Active
+249,Core Sports Model-0249,Sports,Core,136.06,205.42,Active
+250,Maxwell Furniture Model-0250,Furniture,Maxwell,557.1,827.41,Active
+251,Zenith Electronics Model-0251,Electronics,Zenith,503.48,619.85,Discontinued
+252,Core Kitchen Model-0252,Kitchen,Core,726.47,871.94,Discontinued
+253,Maxwell Furniture Model-0253,Furniture,Maxwell,237.41,368.9,Active
+254,Prime Fashion Model-0254,Fashion,Prime,433.27,670.88,Discontinued
+255,Urban Books Model-0255,Books,Urban,485.89,675.04,Active
+256,Nova Books Model-0256,Books,Nova,104.43,161.86,Active
+257,Core Sports Model-0257,Sports,Core,576.05,1054.97,Active
+258,Everest Mobile-Accessories Model-0258,Mobile Accessories,Everest,277.49,389.5,Active
+259,Everest Books Model-0259,Books,Everest,627.3,865.05,Active
+260,Urban Grocery Model-0260,Grocery,Urban,227.03,300.99,Active
+261,Prime Books Model-0261,Books,Prime,507.81,754.89,Discontinued
+262,Core Furniture Model-0262,Furniture,Core,93.48,161.44,Active
+263,Orbit Furniture Model-0263,Furniture,Orbit,585.97,993.51,Discontinued
+264,Orbit Mobile-Accessories Model-0264,Mobile Accessories,Orbit,201.81,236.06,Active
+265,Maxwell Mobile-Accessories Model-0265,Mobile Accessories,Maxwell,272.47,385.52,Active
+266,Vertex Fashion Model-0266,Fashion,Vertex,159.22,218.76,Active
+267,Core Mobile-Accessories Model-0267,Mobile Accessories,Core,792.75,1071.24,Active
+268,Vertex Beauty Model-0268,Beauty,Vertex,239.83,355.35,Active
+269,Orbit Mobile-Accessories Model-0269,Mobile Accessories,Orbit,252.72,443.82,Active
+270,Orbit Mobile-Accessories Model-0270,Mobile Accessories,Orbit,523.2,908.58,Active
+271,Nova Furniture Model-0271,Furniture,Nova,737.24,1338.96,Active
+272,Vertex Fashion Model-0272,Fashion,Vertex,691.85,1064.77,Active
+273,Nova Grocery Model-0273,Grocery,Nova,436.78,550.43,Discontinued
+274,Prime Furniture Model-0274,Furniture,Prime,24.74,35.53,Active
+275,Urban Furniture Model-0275,Furniture,Urban,653.24,822.55,Discontinued
+276,Everest Beauty Model-0276,Beauty,Everest,343.24,539.4,Discontinued
+277,Prime Books Model-0277,Books,Prime,758.96,874.67,Active
+278,Urban Computers Model-0278,Computers,Urban,563.12,692.7,Discontinued
+279,Apex Furniture Model-0279,Furniture,Apex,750.63,1224.3,Active
+280,Apex Electronics Model-0280,Electronics,Apex,670.25,941.73,Active
+281,Urban Fashion Model-0281,Fashion,Urban,618.31,962.48,Active
+282,Nova Home-Appliances Model-0282,Home Appliances,Nova,309.74,436.9,Active
+283,Zenith Mobile-Accessories Model-0283,Mobile Accessories,Zenith,492.19,834.7,Active
+284,Prime Stationery Model-0284,Stationery,Prime,378.17,519.27,Active
+285,Maxwell Fashion Model-0285,Fashion,Maxwell,52.57,86.79,Active
+286,Zenith Furniture Model-0286,Furniture,Zenith,518.28,794.13,Discontinued
+287,Vertex Kitchen Model-0287,Kitchen,Vertex,438.78,644.59,Active
+288,Vertex Sports Model-0288,Sports,Vertex,509.08,755.71,Active
+289,Nova Beauty Model-0289,Beauty,Nova,148.62,212.66,Active
+290,Zenith Furniture Model-0290,Furniture,Zenith,747.87,1023.38,Active
+291,Core Electronics Model-0291,Electronics,Core,693.42,907.99,Active
+292,Apex Home-Appliances Model-0292,Home Appliances,Apex,768.98,1015.93,Active
+293,Vertex Sports Model-0293,Sports,Vertex,614.42,984.91,Active
+294,Prime Furniture Model-0294,Furniture,Prime,319.86,495.99,Active
+295,Apex Books Model-0295,Books,Apex,244.93,333.12,Active
+296,Orbit Stationery Model-0296,Stationery,Orbit,239.96,331.68,Active
+297,Zenith Sports Model-0297,Sports,Zenith,84.51,153.8,Active
+298,Everest Grocery Model-0298,Grocery,Everest,609.86,952.61,Active
+299,Everest Computers Model-0299,Computers,Everest,713.87,1095.44,Active
+300,Maxwell Kitchen Model-0300,Kitchen,Maxwell,685.44,1055.49,Active
+301,Zenith Kitchen Model-0301,Kitchen,Zenith,411.67,607.96,Active
+302,Core Computers Model-0302,Computers,Core,699.46,1188.24,Active
+303,Orbit Sports Model-0303,Sports,Orbit,119.34,216.32,Active
+304,Everest Grocery Model-0304,Grocery,Everest,146.58,189.21,Active
+305,Everest Electronics Model-0305,Electronics,Everest,661.53,969.97,Discontinued
+306,Zenith Mobile-Accessories Model-0306,Mobile Accessories,Zenith,773.8,1166.83,Discontinued
+307,Core Mobile-Accessories Model-0307,Mobile Accessories,Core,251.45,437.0,Discontinued
+308,Urban Grocery Model-0308,Grocery,Urban,348.03,596.48,Active
+309,Nova Kitchen Model-0309,Kitchen,Nova,221.98,287.94,Active
+310,Apex Grocery Model-0310,Grocery,Apex,435.53,519.82,Active
+311,Core Kitchen Model-0311,Kitchen,Core,774.96,1380.62,Discontinued
+312,Nova Beauty Model-0312,Beauty,Nova,681.11,793.85,Active
+313,Prime Computers Model-0313,Computers,Prime,320.72,571.27,Discontinued
+314,Nova Stationery Model-0314,Stationery,Nova,712.23,849.71,Active
+315,Everest Fashion Model-0315,Fashion,Everest,640.92,1098.48,Discontinued
+316,Orbit Grocery Model-0316,Grocery,Orbit,258.0,455.5,Discontinued
+317,Prime Beauty Model-0317,Beauty,Prime,66.75,115.58,Active
+318,Apex Beauty Model-0318,Beauty,Apex,742.72,926.46,Discontinued
+319,Apex Beauty Model-0319,Beauty,Apex,799.57,929.38,Active
+320,Zenith Furniture Model-0320,Furniture,Zenith,623.01,1014.78,Active
+321,Orbit Mobile-Accessories Model-0321,Mobile Accessories,Orbit,481.51,747.45,Active
+322,Vertex Grocery Model-0322,Grocery,Vertex,615.9,1103.02,Active
+323,Nova Stationery Model-0323,Stationery,Nova,610.49,684.17,Discontinued
+324,Prime Furniture Model-0324,Furniture,Prime,667.47,855.89,Active
+325,Prime Furniture Model-0325,Furniture,Prime,734.01,1187.1,Active
+326,Zenith Mobile-Accessories Model-0326,Mobile Accessories,Zenith,745.96,924.43,Active
+327,Urban Kitchen Model-0327,Kitchen,Urban,677.74,1015.46,Active
+328,Nova Sports Model-0328,Sports,Nova,689.33,1174.84,Active
+329,Apex Computers Model-0329,Computers,Apex,497.04,718.63,Discontinued
+330,Maxwell Furniture Model-0330,Furniture,Maxwell,546.92,732.24,Discontinued
+331,Nova Fashion Model-0331,Fashion,Nova,287.99,348.96,Active
+332,Zenith Beauty Model-0332,Beauty,Zenith,729.31,1265.56,Active
+333,Zenith Electronics Model-0333,Electronics,Zenith,743.64,1351.53,Active
+334,Vertex Electronics Model-0334,Electronics,Vertex,527.61,607.01,Active
+335,Urban Kitchen Model-0335,Kitchen,Urban,525.58,856.41,Active
+336,Core Furniture Model-0336,Furniture,Core,313.82,436.43,Active
+337,Urban Stationery Model-0337,Stationery,Urban,250.52,294.78,Active
+338,Maxwell Grocery Model-0338,Grocery,Maxwell,680.37,812.8,Discontinued
+339,Everest Sports Model-0339,Sports,Everest,317.52,467.13,Active
+340,Urban Mobile-Accessories Model-0340,Mobile Accessories,Urban,82.78,137.26,Active
+341,Vertex Computers Model-0341,Computers,Vertex,339.18,474.27,Discontinued
+342,Maxwell Fashion Model-0342,Fashion,Maxwell,767.21,1257.25,Discontinued
+343,Urban Kitchen Model-0343,Kitchen,Urban,309.93,443.54,Active
+344,Everest Beauty Model-0344,Beauty,Everest,783.07,1258.83,Discontinued
+345,Apex Electronics Model-0345,Electronics,Apex,789.19,1339.68,Active
+346,Zenith Sports Model-0346,Sports,Zenith,361.72,548.78,Active
+347,Nova Furniture Model-0347,Furniture,Nova,45.63,77.78,Active
+348,Zenith Grocery Model-0348,Grocery,Zenith,36.48,62.5,Discontinued
+349,Apex Computers Model-0349,Computers,Apex,452.83,653.89,Active
+350,Everest Furniture Model-0350,Furniture,Everest,604.99,776.91,Active
+351,Orbit Computers Model-0351,Computers,Orbit,558.08,949.68,Active
+352,Core Fashion Model-0352,Fashion,Core,188.17,309.32,Discontinued
+353,Nova Computers Model-0353,Computers,Nova,614.98,1023.96,Active
+354,Apex Grocery Model-0354,Grocery,Apex,586.73,736.92,Active
+355,Urban Home-Appliances Model-0355,Home Appliances,Urban,329.61,464.97,Discontinued
+356,Everest Electronics Model-0356,Electronics,Everest,68.28,79.95,Active
+357,Urban Home-Appliances Model-0357,Home Appliances,Urban,378.19,623.31,Discontinued
+358,Urban Computers Model-0358,Computers,Urban,538.12,944.82,Active
+359,Nova Kitchen Model-0359,Kitchen,Nova,106.39,122.03,Discontinued
+360,Maxwell Beauty Model-0360,Beauty,Maxwell,478.09,549.06,Active
+361,Nova Kitchen Model-0361,Kitchen,Nova,120.57,150.06,Active
+362,Apex Beauty Model-0362,Beauty,Apex,573.48,1023.37,Active
+363,Maxwell Beauty Model-0363,Beauty,Maxwell,713.05,1151.72,Active
+364,Urban Home-Appliances Model-0364,Home Appliances,Urban,53.82,83.23,Active
+365,Orbit Electronics Model-0365,Electronics,Orbit,160.6,186.67,Active
+366,Everest Beauty Model-0366,Beauty,Everest,737.36,916.94,Active
+367,Nova Kitchen Model-0367,Kitchen,Nova,711.65,1002.67,Discontinued
+368,Maxwell Fashion Model-0368,Fashion,Maxwell,216.27,274.26,Active
+369,Zenith Kitchen Model-0369,Kitchen,Zenith,274.24,467.02,Active
+370,Core Fashion Model-0370,Fashion,Core,772.5,1067.36,Active
+371,Zenith Mobile-Accessories Model-0371,Mobile Accessories,Zenith,328.27,443.77,Active
+372,Maxwell Mobile-Accessories Model-0372,Mobile Accessories,Maxwell,438.57,610.83,Active
+373,Everest Furniture Model-0373,Furniture,Everest,133.93,205.92,Active
+374,Core Beauty Model-0374,Beauty,Core,717.94,1171.63,Active
+375,Prime Stationery Model-0375,Stationery,Prime,108.55,173.76,Active
+376,Nova Mobile-Accessories Model-0376,Mobile Accessories,Nova,25.12,43.99,Discontinued
+377,Prime Home-Appliances Model-0377,Home Appliances,Prime,492.01,887.5,Discontinued
+378,Vertex Home-Appliances Model-0378,Home Appliances,Vertex,192.81,342.48,Active
+379,Apex Home-Appliances Model-0379,Home Appliances,Apex,416.1,729.34,Active
+380,Core Kitchen Model-0380,Kitchen,Core,206.63,354.62,Active
+381,Prime Fashion Model-0381,Fashion,Prime,767.31,931.52,Discontinued
+382,Apex Books Model-0382,Books,Apex,218.09,315.38,Discontinued
+383,Apex Mobile-Accessories Model-0383,Mobile Accessories,Apex,254.61,416.17,Active
+384,Nova Furniture Model-0384,Furniture,Nova,254.82,388.55,Discontinued
+385,Prime Books Model-0385,Books,Prime,381.58,622.61,Active
+386,Urban Books Model-0386,Books,Urban,305.26,370.21,Active
+387,Urban Grocery Model-0387,Grocery,Urban,308.89,346.27,Active
+388,Vertex Electronics Model-0388,Electronics,Vertex,738.56,1320.49,Active
+389,Orbit Furniture Model-0389,Furniture,Orbit,582.52,863.42,Active
+390,Vertex Sports Model-0390,Sports,Vertex,456.39,715.36,Discontinued
+391,Apex Home-Appliances Model-0391,Home Appliances,Apex,621.99,730.17,Active
+392,Zenith Home-Appliances Model-0392,Home Appliances,Zenith,69.49,122.93,Discontinued
+393,Nova Fashion Model-0393,Fashion,Nova,452.73,518.66,Discontinued
+394,Prime Mobile-Accessories Model-0394,Mobile Accessories,Prime,725.28,1313.48,Discontinued
+395,Apex Computers Model-0395,Computers,Apex,185.67,299.57,Discontinued
+396,Prime Mobile-Accessories Model-0396,Mobile Accessories,Prime,259.56,424.18,Discontinued
+397,Core Stationery Model-0397,Stationery,Core,34.96,61.06,Active
+398,Everest Stationery Model-0398,Stationery,Everest,546.56,860.4,Active
+399,Apex Mobile-Accessories Model-0399,Mobile Accessories,Apex,611.64,805.02,Active
+400,Maxwell Sports Model-0400,Sports,Maxwell,564.31,923.66,Active
+401,Urban Furniture Model-0401,Furniture,Urban,207.73,253.0,Discontinued
+402,Urban Sports Model-0402,Sports,Urban,751.33,997.05,Active
+403,Orbit Home-Appliances Model-0403,Home Appliances,Orbit,43.53,67.34,Active
+404,Prime Furniture Model-0404,Furniture,Prime,40.79,73.07,Active
+405,Apex Sports Model-0405,Sports,Apex,308.68,449.03,Active
+406,Prime Electronics Model-0406,Electronics,Prime,37.33,68.39,Discontinued
+407,Vertex Electronics Model-0407,Electronics,Vertex,88.16,123.46,Active
+408,Orbit Computers Model-0408,Computers,Orbit,277.7,407.06,Active
+409,Vertex Stationery Model-0409,Stationery,Vertex,660.14,1071.59,Discontinued
+410,Nova Sports Model-0410,Sports,Nova,448.75,576.78,Active
+411,Nova Furniture Model-0411,Furniture,Nova,357.89,599.7,Active
+412,Maxwell Home-Appliances Model-0412,Home Appliances,Maxwell,625.47,936.66,Discontinued
+413,Everest Kitchen Model-0413,Kitchen,Everest,382.0,624.01,Active
+414,Urban Furniture Model-0414,Furniture,Urban,598.86,875.95,Discontinued
+415,Urban Mobile-Accessories Model-0415,Mobile Accessories,Urban,577.88,956.18,Active
+416,Prime Stationery Model-0416,Stationery,Prime,104.18,160.13,Active
+417,Maxwell Electronics Model-0417,Electronics,Maxwell,561.24,961.85,Active
+418,Apex Kitchen Model-0418,Kitchen,Apex,358.45,456.34,Active
+419,Apex Furniture Model-0419,Furniture,Apex,456.14,801.81,Discontinued
+420,Core Kitchen Model-0420,Kitchen,Core,72.53,87.06,Active
+421,Prime Stationery Model-0421,Stationery,Prime,393.95,527.73,Active
+422,Vertex Stationery Model-0422,Stationery,Vertex,692.59,1151.84,Active
+423,Vertex Electronics Model-0423,Electronics,Vertex,469.36,852.46,Active
+424,Urban Stationery Model-0424,Stationery,Urban,457.76,525.44,Active
+425,Nova Stationery Model-0425,Stationery,Nova,125.52,229.54,Discontinued
+426,Everest Furniture Model-0426,Furniture,Everest,731.45,994.25,Active
+427,Nova Books Model-0427,Books,Nova,362.67,657.65,Active
+428,Core Electronics Model-0428,Electronics,Core,349.46,455.9,Active
+429,Apex Sports Model-0429,Sports,Apex,617.55,744.01,Active
+430,Orbit Beauty Model-0430,Beauty,Orbit,40.32,72.34,Active
+431,Prime Mobile-Accessories Model-0431,Mobile Accessories,Prime,57.06,72.75,Discontinued
+432,Everest Mobile-Accessories Model-0432,Mobile Accessories,Everest,701.54,1078.09,Discontinued
+433,Apex Home-Appliances Model-0433,Home Appliances,Apex,713.07,1212.47,Active
+434,Apex Books Model-0434,Books,Apex,724.46,825.32,Active
+435,Orbit Home-Appliances Model-0435,Home Appliances,Orbit,381.96,471.51,Discontinued
+436,Vertex Computers Model-0436,Computers,Vertex,495.64,570.14,Discontinued
+437,Maxwell Books Model-0437,Books,Maxwell,417.95,483.15,Active
+438,Zenith Sports Model-0438,Sports,Zenith,26.37,33.9,Active
+439,Core Electronics Model-0439,Electronics,Core,594.75,931.73,Active
+440,Everest Mobile-Accessories Model-0440,Mobile Accessories,Everest,429.94,649.49,Active
+441,Maxwell Mobile-Accessories Model-0441,Mobile Accessories,Maxwell,620.47,1002.23,Active
+442,Core Fashion Model-0442,Fashion,Core,646.67,840.45,Active
+443,Urban Electronics Model-0443,Electronics,Urban,507.52,630.42,Active
+444,Orbit Grocery Model-0444,Grocery,Orbit,380.57,490.72,Active
+445,Nova Mobile-Accessories Model-0445,Mobile Accessories,Nova,282.15,502.21,Active
+446,Core Grocery Model-0446,Grocery,Core,757.82,1315.42,Discontinued
+447,Urban Stationery Model-0447,Stationery,Urban,564.36,761.02,Active
+448,Nova Beauty Model-0448,Beauty,Nova,135.2,161.04,Active
+449,Urban Furniture Model-0449,Furniture,Urban,700.08,1046.21,Active
+450,Apex Computers Model-0450,Computers,Apex,380.34,557.02,Active
+451,Zenith Fashion Model-0451,Fashion,Zenith,668.71,1124.14,Active
+452,Nova Sports Model-0452,Sports,Nova,376.76,696.97,Discontinued
+453,Maxwell Mobile-Accessories Model-0453,Mobile Accessories,Maxwell,167.4,288.79,Active
+454,Maxwell Beauty Model-0454,Beauty,Maxwell,206.92,351.6,Active
+455,Everest Computers Model-0455,Computers,Everest,74.51,85.1,Active
+456,Prime Furniture Model-0456,Furniture,Prime,470.08,829.67,Active
+457,Everest Kitchen Model-0457,Kitchen,Everest,297.29,418.2,Active
+458,Zenith Kitchen Model-0458,Kitchen,Zenith,216.62,358.81,Active
+459,Nova Electronics Model-0459,Electronics,Nova,361.55,586.62,Active
+460,Core Electronics Model-0460,Electronics,Core,516.82,666.6,Discontinued
+461,Nova Sports Model-0461,Sports,Nova,24.03,41.64,Active
+462,Orbit Home-Appliances Model-0462,Home Appliances,Orbit,140.91,242.97,Active
+463,Urban Kitchen Model-0463,Kitchen,Urban,139.68,178.49,Active
+464,Everest Sports Model-0464,Sports,Everest,288.15,425.46,Discontinued
+465,Everest Beauty Model-0465,Beauty,Everest,677.48,948.25,Active
+466,Vertex Home-Appliances Model-0466,Home Appliances,Vertex,737.25,1074.42,Active
+467,Core Stationery Model-0467,Stationery,Core,115.99,154.64,Active
+468,Nova Furniture Model-0468,Furniture,Nova,60.29,83.88,Active
+469,Core Mobile-Accessories Model-0469,Mobile Accessories,Core,642.8,915.89,Discontinued
+470,Apex Sports Model-0470,Sports,Apex,22.49,26.87,Active
+471,Orbit Stationery Model-0471,Stationery,Orbit,623.45,953.45,Active
+472,Nova Kitchen Model-0472,Kitchen,Nova,522.95,596.41,Active
+473,Vertex Fashion Model-0473,Fashion,Vertex,785.06,1173.19,Discontinued
+474,Zenith Computers Model-0474,Computers,Zenith,377.41,575.58,Discontinued
+475,Core Furniture Model-0475,Furniture,Core,712.28,933.14,Active
+476,Prime Fashion Model-0476,Fashion,Prime,441.65,783.34,Active
+477,Maxwell Fashion Model-0477,Fashion,Maxwell,52.2,68.77,Active
+478,Orbit Beauty Model-0478,Beauty,Orbit,283.42,377.13,Active
+479,Prime Kitchen Model-0479,Kitchen,Prime,546.56,879.79,Active
+480,Core Fashion Model-0480,Fashion,Core,550.64,691.34,Discontinued
+481,Urban Home-Appliances Model-0481,Home Appliances,Urban,583.53,874.87,Active
+482,Prime Fashion Model-0482,Fashion,Prime,769.39,1079.3,Active
+483,Prime Mobile-Accessories Model-0483,Mobile Accessories,Prime,375.27,523.15,Active
+484,Vertex Grocery Model-0484,Grocery,Vertex,101.22,173.02,Discontinued
+485,Apex Grocery Model-0485,Grocery,Apex,357.97,532.82,Active
+486,Orbit Stationery Model-0486,Stationery,Orbit,664.43,1011.27,Active
+487,Zenith Electronics Model-0487,Electronics,Zenith,740.21,1241.73,Active
+488,Zenith Stationery Model-0488,Stationery,Zenith,644.24,733.29,Discontinued
+489,Everest Grocery Model-0489,Grocery,Everest,600.18,814.92,Discontinued
+490,Apex Grocery Model-0490,Grocery,Apex,692.35,1027.44,Active
+491,Core Home-Appliances Model-0491,Home Appliances,Core,249.13,344.02,Active
+492,Zenith Home-Appliances Model-0492,Home Appliances,Zenith,248.83,437.23,Active
+493,Maxwell Beauty Model-0493,Beauty,Maxwell,769.64,879.04,Active
+494,Apex Books Model-0494,Books,Apex,613.79,996.77,Active
+495,Orbit Sports Model-0495,Sports,Orbit,237.02,274.31,Active
+496,Orbit Kitchen Model-0496,Kitchen,Orbit,771.99,997.94,Active
+497,Apex Electronics Model-0497,Electronics,Apex,450.05,598.69,Active
+498,Urban Computers Model-0498,Computers,Urban,183.49,226.55,Active
+499,Vertex Computers Model-0499,Computers,Vertex,610.13,739.65,Active
+500,Maxwell Books Model-0500,Books,Maxwell,500.29,736.26,Discontinued
+501,Everest Computers Model-0501,Computers,Everest,611.89,968.04,Active
+502,Prime Books Model-0502,Books,Prime,291.55,439.31,Active
+503,Prime Computers Model-0503,Computers,Prime,375.79,607.95,Active
+504,Nova Books Model-0504,Books,Nova,680.98,1068.58,Active
+505,Nova Kitchen Model-0505,Kitchen,Nova,366.78,575.93,Discontinued
+506,Maxwell Sports Model-0506,Sports,Maxwell,439.82,680.29,Active
+507,Everest Furniture Model-0507,Furniture,Everest,419.08,679.03,Active
+508,Prime Furniture Model-0508,Furniture,Prime,223.1,397.55,Active
+509,Everest Sports Model-0509,Sports,Everest,232.69,405.86,Discontinued
+510,Nova Beauty Model-0510,Beauty,Nova,472.31,712.87,Active
+511,Nova Mobile-Accessories Model-0511,Mobile Accessories,Nova,39.57,56.36,Active
+512,Everest Grocery Model-0512,Grocery,Everest,149.62,240.32,Active
+513,Maxwell Stationery Model-0513,Stationery,Maxwell,459.37,758.81,Active
+514,Orbit Beauty Model-0514,Beauty,Orbit,555.78,695.6,Active
+515,Apex Electronics Model-0515,Electronics,Apex,588.03,871.86,Active
+516,Urban Grocery Model-0516,Grocery,Urban,199.26,294.2,Active
+517,Prime Sports Model-0517,Sports,Prime,99.38,160.05,Active
+518,Urban Kitchen Model-0518,Kitchen,Urban,480.33,684.2,Discontinued
+519,Everest Stationery Model-0519,Stationery,Everest,304.57,435.07,Discontinued
+520,Apex Computers Model-0520,Computers,Apex,659.66,977.96,Active
+521,Prime Fashion Model-0521,Fashion,Prime,185.42,208.89,Active
+522,Everest Kitchen Model-0522,Kitchen,Everest,677.34,1193.38,Active
+523,Zenith Sports Model-0523,Sports,Zenith,571.86,921.3,Active
+524,Core Stationery Model-0524,Stationery,Core,710.87,985.56,Active
+525,Core Electronics Model-0525,Electronics,Core,311.96,376.33,Discontinued
+526,Maxwell Fashion Model-0526,Fashion,Maxwell,644.05,822.79,Active
+527,Nova Grocery Model-0527,Grocery,Nova,352.2,475.58,Active
+528,Maxwell Grocery Model-0528,Grocery,Maxwell,373.48,507.35,Active
+529,Orbit Sports Model-0529,Sports,Orbit,426.17,629.3,Active
+530,Maxwell Books Model-0530,Books,Maxwell,118.3,210.78,Active
+531,Urban Kitchen Model-0531,Kitchen,Urban,111.39,189.96,Active
+532,Apex Stationery Model-0532,Stationery,Apex,77.49,91.23,Active
+533,Nova Beauty Model-0533,Beauty,Nova,740.46,1147.06,Active
+534,Nova Kitchen Model-0534,Kitchen,Nova,216.77,312.14,Active
+535,Urban Home-Appliances Model-0535,Home Appliances,Urban,164.5,262.77,Discontinued
+536,Nova Home-Appliances Model-0536,Home Appliances,Nova,648.57,1179.29,Discontinued
+537,Urban Home-Appliances Model-0537,Home Appliances,Urban,796.74,1222.19,Active
+538,Urban Grocery Model-0538,Grocery,Urban,417.0,695.12,Active
+539,Zenith Fashion Model-0539,Fashion,Zenith,361.77,664.29,Active
+540,Prime Kitchen Model-0540,Kitchen,Prime,596.46,793.57,Discontinued
+541,Apex Kitchen Model-0541,Kitchen,Apex,753.27,963.65,Active
+542,Vertex Beauty Model-0542,Beauty,Vertex,42.66,51.6,Active
+543,Nova Grocery Model-0543,Grocery,Nova,494.81,587.25,Active
+544,Urban Grocery Model-0544,Grocery,Urban,89.59,101.83,Active
+545,Prime Beauty Model-0545,Beauty,Prime,127.71,206.88,Active
+546,Core Kitchen Model-0546,Kitchen,Core,626.13,1117.05,Active
+547,Urban Kitchen Model-0547,Kitchen,Urban,39.45,68.42,Active
+548,Urban Books Model-0548,Books,Urban,734.08,1102.15,Active
+549,Orbit Stationery Model-0549,Stationery,Orbit,746.4,1189.56,Active
+550,Maxwell Beauty Model-0550,Beauty,Maxwell,424.89,711.72,Active
+551,Prime Books Model-0551,Books,Prime,360.47,418.23,Active
+552,Prime Stationery Model-0552,Stationery,Prime,693.91,795.21,Active
+553,Nova Mobile-Accessories Model-0553,Mobile Accessories,Nova,284.9,445.73,Discontinued
+554,Everest Fashion Model-0554,Fashion,Everest,367.17,660.55,Discontinued
+555,Apex Books Model-0555,Books,Apex,643.2,896.6,Active
+556,Core Grocery Model-0556,Grocery,Core,613.89,730.63,Active
+557,Apex Computers Model-0557,Computers,Apex,43.09,77.16,Active
+558,Maxwell Furniture Model-0558,Furniture,Maxwell,188.72,256.07,Active
+559,Vertex Computers Model-0559,Computers,Vertex,614.57,890.33,Active
+560,Core Stationery Model-0560,Stationery,Core,776.11,1017.91,Active
+561,Prime Books Model-0561,Books,Prime,576.43,941.6,Discontinued
+562,Nova Sports Model-0562,Sports,Nova,731.05,1019.54,Active
+563,Orbit Sports Model-0563,Sports,Orbit,54.08,73.98,Active
+564,Vertex Kitchen Model-0564,Kitchen,Vertex,122.07,151.6,Active
+565,Orbit Grocery Model-0565,Grocery,Orbit,509.8,849.53,Active
+566,Orbit Stationery Model-0566,Stationery,Orbit,565.35,874.66,Discontinued
+567,Orbit Computers Model-0567,Computers,Orbit,759.11,1001.52,Active
+568,Vertex Electronics Model-0568,Electronics,Vertex,194.73,264.24,Discontinued
+569,Nova Sports Model-0569,Sports,Nova,437.52,722.23,Active
+570,Urban Home-Appliances Model-0570,Home Appliances,Urban,138.86,171.55,Active
+571,Nova Home-Appliances Model-0571,Home Appliances,Nova,316.32,546.1,Active
+572,Core Fashion Model-0572,Fashion,Core,285.43,335.3,Active
+573,Orbit Stationery Model-0573,Stationery,Orbit,407.16,473.37,Discontinued
+574,Everest Electronics Model-0574,Electronics,Everest,544.73,940.36,Active
+575,Urban Sports Model-0575,Sports,Urban,152.04,257.64,Active
+576,Core Furniture Model-0576,Furniture,Core,657.02,889.45,Discontinued
+577,Urban Sports Model-0577,Sports,Urban,586.98,744.75,Active
+578,Everest Grocery Model-0578,Grocery,Everest,279.87,472.76,Active
+579,Maxwell Mobile-Accessories Model-0579,Mobile Accessories,Maxwell,511.43,720.1,Discontinued
+580,Zenith Furniture Model-0580,Furniture,Zenith,590.96,844.58,Active
+581,Zenith Beauty Model-0581,Beauty,Zenith,502.6,822.35,Active
+582,Vertex Computers Model-0582,Computers,Vertex,705.18,1276.81,Active
+583,Zenith Beauty Model-0583,Beauty,Zenith,235.02,316.36,Active
+584,Urban Furniture Model-0584,Furniture,Urban,200.41,351.38,Active
+585,Urban Electronics Model-0585,Electronics,Urban,122.24,143.25,Discontinued
+586,Apex Grocery Model-0586,Grocery,Apex,680.01,1246.48,Active
+587,Orbit Electronics Model-0587,Electronics,Orbit,613.69,845.98,Active
+588,Zenith Beauty Model-0588,Beauty,Zenith,448.42,813.21,Active
+589,Core Beauty Model-0589,Beauty,Core,333.22,455.4,Active
+590,Urban Kitchen Model-0590,Kitchen,Urban,120.16,151.6,Active
+591,Apex Electronics Model-0591,Electronics,Apex,694.41,1169.41,Active
+592,Maxwell Stationery Model-0592,Stationery,Maxwell,593.06,1095.92,Active
+593,Apex Grocery Model-0593,Grocery,Apex,114.63,158.22,Discontinued
+594,Zenith Beauty Model-0594,Beauty,Zenith,159.31,290.85,Active
+595,Urban Books Model-0595,Books,Urban,96.52,161.73,Discontinued
+596,Nova Electronics Model-0596,Electronics,Nova,241.0,293.75,Active
+597,Urban Furniture Model-0597,Furniture,Urban,740.8,1154.03,Active
+598,Everest Furniture Model-0598,Furniture,Everest,173.66,318.79,Active
+599,Apex Home-Appliances Model-0599,Home Appliances,Apex,243.77,398.15,Discontinued
+600,Urban Kitchen Model-0600,Kitchen,Urban,282.42,492.49,Active
+601,Zenith Kitchen Model-0601,Kitchen,Zenith,717.31,1281.25,Active
+602,Core Fashion Model-0602,Fashion,Core,155.8,227.46,Discontinued
+603,Orbit Grocery Model-0603,Grocery,Orbit,204.82,257.16,Active
+604,Apex Stationery Model-0604,Stationery,Apex,271.72,489.48,Active
+605,Apex Kitchen Model-0605,Kitchen,Apex,87.6,120.6,Active
+606,Urban Beauty Model-0606,Beauty,Urban,227.54,402.3,Discontinued
+607,Vertex Furniture Model-0607,Furniture,Vertex,454.23,555.12,Active
+608,Urban Electronics Model-0608,Electronics,Urban,366.56,421.23,Active
+609,Apex Kitchen Model-0609,Kitchen,Apex,38.14,61.73,Active
+610,Everest Books Model-0610,Books,Everest,244.71,355.88,Active
+611,Apex Sports Model-0611,Sports,Apex,264.56,405.5,Active
+612,Nova Computers Model-0612,Computers,Nova,361.01,644.35,Active
+613,Prime Beauty Model-0613,Beauty,Prime,147.77,195.18,Discontinued
+614,Prime Electronics Model-0614,Electronics,Prime,581.16,872.4,Discontinued
+615,Zenith Books Model-0615,Books,Zenith,225.28,259.26,Discontinued
+616,Orbit Electronics Model-0616,Electronics,Orbit,149.77,252.27,Discontinued
+617,Orbit Computers Model-0617,Computers,Orbit,512.03,893.28,Discontinued
+618,Apex Grocery Model-0618,Grocery,Apex,321.27,491.86,Active
+619,Nova Kitchen Model-0619,Kitchen,Nova,145.28,263.77,Discontinued
+620,Vertex Mobile-Accessories Model-0620,Mobile Accessories,Vertex,189.13,299.96,Active
+621,Prime Grocery Model-0621,Grocery,Prime,668.49,1149.09,Active
+622,Vertex Computers Model-0622,Computers,Vertex,493.15,785.26,Discontinued
+623,Urban Grocery Model-0623,Grocery,Urban,303.84,477.39,Active
+624,Orbit Stationery Model-0624,Stationery,Orbit,503.37,693.2,Discontinued
+625,Maxwell Electronics Model-0625,Electronics,Maxwell,559.53,831.54,Discontinued
+626,Orbit Electronics Model-0626,Electronics,Orbit,55.79,85.06,Active
+627,Orbit Mobile-Accessories Model-0627,Mobile Accessories,Orbit,400.9,594.31,Discontinued
+628,Orbit Mobile-Accessories Model-0628,Mobile Accessories,Orbit,724.43,1290.8,Active
+629,Zenith Beauty Model-0629,Beauty,Zenith,629.15,958.11,Discontinued
+630,Nova Furniture Model-0630,Furniture,Nova,176.21,307.11,Discontinued
+631,Prime Mobile-Accessories Model-0631,Mobile Accessories,Prime,440.4,764.15,Active
+632,Vertex Books Model-0632,Books,Vertex,230.86,292.64,Active
+633,Prime Home-Appliances Model-0633,Home Appliances,Prime,635.99,851.49,Active
+634,Prime Stationery Model-0634,Stationery,Prime,75.61,95.16,Active
+635,Vertex Books Model-0635,Books,Vertex,284.27,462.74,Active
+636,Zenith Kitchen Model-0636,Kitchen,Zenith,448.98,753.7,Discontinued
+637,Everest Computers Model-0637,Computers,Everest,667.02,935.28,Active
+638,Core Home-Appliances Model-0638,Home Appliances,Core,268.62,362.6,Active
+639,Everest Home-Appliances Model-0639,Home Appliances,Everest,464.37,792.2,Active
+640,Zenith Books Model-0640,Books,Zenith,118.51,146.55,Active
+641,Orbit Beauty Model-0641,Beauty,Orbit,715.68,913.48,Active
+642,Vertex Furniture Model-0642,Furniture,Vertex,251.19,284.58,Active
+643,Orbit Stationery Model-0643,Stationery,Orbit,389.79,580.54,Active
+644,Urban Grocery Model-0644,Grocery,Urban,559.34,887.59,Active
+645,Maxwell Electronics Model-0645,Electronics,Maxwell,524.28,611.09,Active
+646,Vertex Fashion Model-0646,Fashion,Vertex,95.75,131.95,Active
+647,Apex Mobile-Accessories Model-0647,Mobile Accessories,Apex,332.24,491.39,Active
+648,Apex Home-Appliances Model-0648,Home Appliances,Apex,624.88,1155.72,Active
+649,Maxwell Sports Model-0649,Sports,Maxwell,629.03,946.3,Active
+650,Everest Grocery Model-0650,Grocery,Everest,621.1,808.45,Active
+651,Prime Grocery Model-0651,Grocery,Prime,518.42,815.71,Active
+652,Vertex Electronics Model-0652,Electronics,Vertex,157.06,257.66,Active
+653,Orbit Beauty Model-0653,Beauty,Orbit,247.1,279.79,Active
+654,Vertex Books Model-0654,Books,Vertex,546.56,614.77,Active
+655,Zenith Furniture Model-0655,Furniture,Zenith,560.54,932.04,Active
+656,Maxwell Stationery Model-0656,Stationery,Maxwell,445.6,800.23,Discontinued
+657,Maxwell Books Model-0657,Books,Maxwell,457.28,528.46,Discontinued
+658,Urban Sports Model-0658,Sports,Urban,239.16,363.97,Active
+659,Everest Sports Model-0659,Sports,Everest,154.32,223.64,Active
+660,Apex Computers Model-0660,Computers,Apex,672.28,1107.03,Discontinued
+661,Everest Kitchen Model-0661,Kitchen,Everest,644.21,933.4,Discontinued
+662,Vertex Sports Model-0662,Sports,Vertex,269.26,477.46,Discontinued
+663,Nova Electronics Model-0663,Electronics,Nova,35.08,43.92,Active
+664,Core Beauty Model-0664,Beauty,Core,76.39,112.06,Active
+665,Maxwell Furniture Model-0665,Furniture,Maxwell,600.64,816.99,Active
+666,Zenith Sports Model-0666,Sports,Zenith,242.43,287.53,Active
+667,Zenith Grocery Model-0667,Grocery,Zenith,583.69,1021.1,Active
+668,Prime Books Model-0668,Books,Prime,377.94,647.38,Discontinued
+669,Maxwell Grocery Model-0669,Grocery,Maxwell,228.12,260.82,Active
+670,Core Electronics Model-0670,Electronics,Core,171.98,228.15,Active
+671,Urban Sports Model-0671,Sports,Urban,599.29,1031.18,Active
+672,Maxwell Mobile-Accessories Model-0672,Mobile Accessories,Maxwell,400.65,485.73,Active
+673,Vertex Mobile-Accessories Model-0673,Mobile Accessories,Vertex,476.35,676.18,Active
+674,Core Home-Appliances Model-0674,Home Appliances,Core,216.81,284.76,Active
+675,Apex Electronics Model-0675,Electronics,Apex,417.71,662.93,Active
+676,Vertex Kitchen Model-0676,Kitchen,Vertex,149.01,268.42,Active
+677,Orbit Electronics Model-0677,Electronics,Orbit,588.99,892.68,Active
+678,Orbit Mobile-Accessories Model-0678,Mobile Accessories,Orbit,713.19,1033.38,Active
+679,Maxwell Sports Model-0679,Sports,Maxwell,577.94,778.68,Active
+680,Apex Electronics Model-0680,Electronics,Apex,544.01,867.32,Discontinued
+681,Vertex Furniture Model-0681,Furniture,Vertex,405.8,675.59,Active
+682,Prime Sports Model-0682,Sports,Prime,672.15,1242.24,Discontinued
+683,Nova Books Model-0683,Books,Nova,497.41,630.05,Active
+684,Zenith Sports Model-0684,Sports,Zenith,733.95,833.98,Active
+685,Core Home-Appliances Model-0685,Home Appliances,Core,350.78,480.99,Active
+686,Apex Beauty Model-0686,Beauty,Apex,398.19,637.44,Active
+687,Everest Mobile-Accessories Model-0687,Mobile Accessories,Everest,58.99,76.63,Active
+688,Orbit Fashion Model-0688,Fashion,Orbit,113.9,161.72,Active
+689,Orbit Home-Appliances Model-0689,Home Appliances,Orbit,452.86,712.74,Active
+690,Orbit Mobile-Accessories Model-0690,Mobile Accessories,Orbit,614.89,827.64,Active
+691,Urban Stationery Model-0691,Stationery,Urban,470.09,656.73,Active
+692,Everest Electronics Model-0692,Electronics,Everest,741.69,845.72,Active
+693,Apex Mobile-Accessories Model-0693,Mobile Accessories,Apex,459.23,843.3,Discontinued
+694,Prime Mobile-Accessories Model-0694,Mobile Accessories,Prime,576.72,742.87,Active
+695,Urban Sports Model-0695,Sports,Urban,498.95,800.79,Discontinued
+696,Urban Furniture Model-0696,Furniture,Urban,222.54,311.98,Discontinued
+697,Vertex Computers Model-0697,Computers,Vertex,299.82,485.06,Active
+698,Nova Electronics Model-0698,Electronics,Nova,780.95,1272.35,Active
+699,Orbit Books Model-0699,Books,Orbit,246.13,436.81,Discontinued
+700,Zenith Sports Model-0700,Sports,Zenith,386.29,645.76,Active
+701,Nova Electronics Model-0701,Electronics,Nova,397.17,611.15,Active
+702,Maxwell Kitchen Model-0702,Kitchen,Maxwell,478.53,536.6,Active
+703,Vertex Stationery Model-0703,Stationery,Vertex,757.51,1353.1,Active
+704,Orbit Mobile-Accessories Model-0704,Mobile Accessories,Orbit,339.54,502.85,Active
+705,Zenith Beauty Model-0705,Beauty,Zenith,317.58,554.75,Active
+706,Maxwell Beauty Model-0706,Beauty,Maxwell,644.26,1158.24,Active
+707,Apex Home-Appliances Model-0707,Home Appliances,Apex,570.31,784.55,Active
+708,Nova Furniture Model-0708,Furniture,Nova,495.01,735.84,Active
+709,Prime Electronics Model-0709,Electronics,Prime,657.49,1164.78,Active
+710,Urban Electronics Model-0710,Electronics,Urban,78.72,130.88,Discontinued
+711,Maxwell Fashion Model-0711,Fashion,Maxwell,110.68,152.33,Active
+712,Everest Mobile-Accessories Model-0712,Mobile Accessories,Everest,281.38,493.12,Discontinued
+713,Zenith Mobile-Accessories Model-0713,Mobile Accessories,Zenith,420.29,521.96,Discontinued
+714,Maxwell Stationery Model-0714,Stationery,Maxwell,40.47,67.68,Active
+715,Nova Furniture Model-0715,Furniture,Nova,528.55,702.68,Active
+716,Vertex Computers Model-0716,Computers,Vertex,374.9,496.85,Discontinued
+717,Vertex Fashion Model-0717,Fashion,Vertex,439.89,726.64,Active
+718,Zenith Mobile-Accessories Model-0718,Mobile Accessories,Zenith,289.96,388.91,Active
+719,Nova Stationery Model-0719,Stationery,Nova,299.44,336.71,Active
+720,Zenith Beauty Model-0720,Beauty,Zenith,621.22,949.63,Active
+721,Vertex Sports Model-0721,Sports,Vertex,70.78,118.05,Active
+722,Zenith Sports Model-0722,Sports,Zenith,551.19,867.1,Active
+723,Urban Stationery Model-0723,Stationery,Urban,400.64,630.61,Active
+724,Core Home-Appliances Model-0724,Home Appliances,Core,458.51,826.52,Active
+725,Maxwell Fashion Model-0725,Fashion,Maxwell,768.69,1270.73,Discontinued
+726,Vertex Stationery Model-0726,Stationery,Vertex,152.72,275.89,Active
+727,Nova Computers Model-0727,Computers,Nova,256.34,321.0,Active
+728,Core Beauty Model-0728,Beauty,Core,621.83,898.42,Discontinued
+729,Vertex Fashion Model-0729,Fashion,Vertex,731.92,1092.75,Active
+730,Zenith Mobile-Accessories Model-0730,Mobile Accessories,Zenith,559.93,959.14,Active
+731,Nova Stationery Model-0731,Stationery,Nova,190.59,258.23,Active
+732,Orbit Fashion Model-0732,Fashion,Orbit,38.64,51.31,Active
+733,Prime Books Model-0733,Books,Prime,272.85,356.29,Active
+734,Orbit Computers Model-0734,Computers,Orbit,299.25,378.21,Active
+735,Apex Fashion Model-0735,Fashion,Apex,713.55,1197.65,Discontinued
+736,Everest Kitchen Model-0736,Kitchen,Everest,491.35,654.55,Active
+737,Everest Mobile-Accessories Model-0737,Mobile Accessories,Everest,743.15,1309.59,Active
+738,Everest Fashion Model-0738,Fashion,Everest,781.91,1003.15,Discontinued
+739,Orbit Electronics Model-0739,Electronics,Orbit,120.22,181.45,Active
+740,Orbit Beauty Model-0740,Beauty,Orbit,646.15,1171.4,Active
+741,Urban Beauty Model-0741,Beauty,Urban,774.13,901.92,Active
+742,Maxwell Electronics Model-0742,Electronics,Maxwell,690.52,1042.99,Active
+743,Prime Sports Model-0743,Sports,Prime,545.11,839.33,Discontinued
+744,Orbit Kitchen Model-0744,Kitchen,Orbit,683.14,1049.39,Discontinued
+745,Prime Kitchen Model-0745,Kitchen,Prime,287.96,402.83,Active
+746,Vertex Mobile-Accessories Model-0746,Mobile Accessories,Vertex,72.03,105.05,Active
+747,Zenith Grocery Model-0747,Grocery,Zenith,422.12,480.6,Active
+748,Core Home-Appliances Model-0748,Home Appliances,Core,398.76,520.74,Active
+749,Apex Beauty Model-0749,Beauty,Apex,386.09,575.65,Active
+750,Apex Home-Appliances Model-0750,Home Appliances,Apex,530.1,662.22,Active
+751,Prime Books Model-0751,Books,Prime,658.95,1184.22,Active
+752,Vertex Beauty Model-0752,Beauty,Vertex,60.74,68.12,Active
+753,Maxwell Sports Model-0753,Sports,Maxwell,346.52,428.22,Active
+754,Orbit Books Model-0754,Books,Orbit,125.22,222.78,Active
+755,Apex Sports Model-0755,Sports,Apex,654.45,749.22,Discontinued
+756,Prime Furniture Model-0756,Furniture,Prime,137.19,240.53,Active
+757,Prime Kitchen Model-0757,Kitchen,Prime,253.42,378.43,Active
+758,Prime Home-Appliances Model-0758,Home Appliances,Prime,406.5,715.64,Discontinued
+759,Orbit Computers Model-0759,Computers,Orbit,764.38,1377.66,Active
+760,Nova Fashion Model-0760,Fashion,Nova,699.78,1239.94,Discontinued
+761,Vertex Beauty Model-0761,Beauty,Vertex,20.45,28.18,Active
+762,Orbit Grocery Model-0762,Grocery,Orbit,273.03,310.76,Discontinued
+763,Maxwell Home-Appliances Model-0763,Home Appliances,Maxwell,538.92,837.43,Active
+764,Nova Grocery Model-0764,Grocery,Nova,222.3,278.33,Active
+765,Zenith Beauty Model-0765,Beauty,Zenith,321.22,551.88,Active
+766,Core Electronics Model-0766,Electronics,Core,414.31,536.78,Discontinued
+767,Everest Grocery Model-0767,Grocery,Everest,274.01,494.26,Discontinued
+768,Everest Computers Model-0768,Computers,Everest,796.63,967.92,Discontinued
+769,Everest Fashion Model-0769,Fashion,Everest,112.34,135.13,Active
+770,Core Furniture Model-0770,Furniture,Core,554.57,714.91,Active
+771,Maxwell Stationery Model-0771,Stationery,Maxwell,363.89,526.13,Discontinued
+772,Core Kitchen Model-0772,Kitchen,Core,468.2,816.72,Active
+773,Maxwell Books Model-0773,Books,Maxwell,731.38,1318.59,Discontinued
+774,Core Computers Model-0774,Computers,Core,595.87,746.03,Active
+775,Apex Stationery Model-0775,Stationery,Apex,458.27,585.15,Active
+776,Urban Computers Model-0776,Computers,Urban,404.68,603.49,Active
+777,Everest Home-Appliances Model-0777,Home Appliances,Everest,204.26,366.68,Discontinued
+778,Apex Beauty Model-0778,Beauty,Apex,320.45,558.23,Discontinued
+779,Everest Grocery Model-0779,Grocery,Everest,53.1,91.67,Discontinued
+780,Prime Home-Appliances Model-0780,Home Appliances,Prime,716.81,1195.95,Active
+781,Apex Furniture Model-0781,Furniture,Apex,494.91,842.44,Active
+782,Orbit Stationery Model-0782,Stationery,Orbit,449.76,688.88,Active
+783,Prime Electronics Model-0783,Electronics,Prime,304.19,355.66,Discontinued
+784,Urban Mobile-Accessories Model-0784,Mobile Accessories,Urban,322.2,384.61,Discontinued
+785,Everest Electronics Model-0785,Electronics,Everest,220.28,331.7,Active
+786,Prime Computers Model-0786,Computers,Prime,21.65,34.28,Discontinued
+787,Apex Furniture Model-0787,Furniture,Apex,669.51,811.21,Active
+788,Apex Sports Model-0788,Sports,Apex,397.0,635.3,Discontinued
+789,Apex Computers Model-0789,Computers,Apex,512.55,697.62,Active
+790,Core Furniture Model-0790,Furniture,Core,642.86,732.39,Active
+791,Zenith Electronics Model-0791,Electronics,Zenith,289.55,511.9,Active
+792,Zenith Electronics Model-0792,Electronics,Zenith,497.93,865.73,Active
+793,Zenith Home-Appliances Model-0793,Home Appliances,Zenith,310.89,399.34,Active
+794,Orbit Furniture Model-0794,Furniture,Orbit,30.12,53.9,Active
+795,Apex Stationery Model-0795,Stationery,Apex,574.26,888.18,Active
+796,Maxwell Furniture Model-0796,Furniture,Maxwell,491.21,792.3,Discontinued
+797,Core Stationery Model-0797,Stationery,Core,430.34,786.46,Active
+798,Orbit Furniture Model-0798,Furniture,Orbit,492.13,557.69,Active
+799,Everest Mobile-Accessories Model-0799,Mobile Accessories,Everest,398.09,668.48,Active
+800,Urban Mobile-Accessories Model-0800,Mobile Accessories,Urban,62.29,77.74,Active
