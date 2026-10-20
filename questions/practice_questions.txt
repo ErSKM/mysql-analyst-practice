@@ -1,0 +1,103 @@
+MYSQL ANALYST PRACTICE — RETAIL DATASET
+=============================================
+
+Dataset size:
+- 30,000 customers
+- 800 products
+- 40 stores
+- 220 employees
+- 100,000 orders
+- 300,000+ order lines
+- payments + returns
+- orders cover 2024-01-01 to 2026-08-31
+
+Core business calculations:
+Line Gross = quantity * unit_price
+Discount = quantity * unit_price * discount_pct / 100
+Line Net Revenue = Line Gross - Discount
+Approx Margin = Line Net Revenue - quantity * products.unit_cost
+
+Default rules:
+- Revenue questions use Completed orders unless stated otherwise.
+- Do not count order_items as orders.
+- Use COUNT(DISTINCT customer_id) for unique customers.
+- Be careful about duplicate multiplication when joining order-level and line-level tables.
+- Define the output grain before writing the query.
+
+Suggested workflow:
+1. Read the question.
+2. State the output grain.
+3. Identify tables and join keys.
+4. Identify filters.
+5. Decide aggregation level.
+6. Choose JOIN / subquery / CTE / window function.
+7. Write and test.
+8. Only ask for the solution if stuck.
+
+
+BEGINNER
+--------
+1. Return the first 20 customers with customer_id, name, city, state, and signup_date.
+2. Find all products in Electronics.
+3. Find products with unit_price between 500 and 1000.
+4. Count customers by state.
+5. Count orders by status.
+6. Calculate average product price by category.
+7. Find categories whose average price is above 500.
+8. Calculate total quantity sold for each product.
+9. Calculate completed revenue by sales channel.
+10. Create a CASE expression classifying products as Low, Medium, or High price.
+
+JOINS
+-----
+11. Join orders to customers and show order_id, date, customer_name, city, region.
+12. Join order_items to products and calculate line revenue.
+13. Calculate completed revenue by product category.
+14. Calculate completed revenue by store.
+15. Calculate completed revenue by employee.
+16. Find customers who never placed an order.
+17. Find products never sold.
+18. Find customers who used both Website and Mobile App.
+19. Find employees who never handled a completed order.
+20. Find stores with returned-order rate above 5%.
+
+SUBQUERIES
+----------
+21. Find customers whose completed revenue is above the average customer revenue.
+22. Find products priced above the average price of their category.
+23. Find orders whose value is above the average order value.
+24. Find customers who ordered in 2025 but not in 2026.
+25. Find customers who purchased every product category at least once.
+26. Find the highest-priced product in every category.
+27. Find customers whose latest order was returned.
+28. Find orders containing at least one Electronics product using EXISTS.
+29. Find customers whose first order was within 30 days of signup.
+30. Find stores whose average order value is above the company average.
+
+CTES
+----
+31. Build an order-level revenue CTE and calculate monthly revenue.
+32. Build customer-level metrics: order count, revenue, AOV.
+33. Find each customer's first order date using a CTE.
+34. Calculate monthly new-customer counts.
+35. Calculate monthly revenue, discounts, returns, and net revenue.
+36. Calculate each product's share of category revenue.
+37. Find each category's best-selling product by quantity.
+38. Calculate customer revenue contribution within region.
+39. Build a monthly executive sales table with orders, customers, revenue, AOV and return rate.
+40. Build a cohort table using signup month and activity month.
+
+WINDOW FUNCTIONS
+----------------
+41. Rank products by revenue within category.
+42. Return the top 3 products in every category.
+43. Calculate each customer's running lifetime revenue.
+44. Find each customer's previous order date using LAG().
+45. Calculate days between consecutive orders.
+46. Identify each customer's first, second and third orders.
+47. Calculate month-over-month revenue using LAG().
+48. Calculate each product's percentage contribution to category revenue.
+49. Calculate a 3-month rolling revenue total.
+50. Divide customers into five revenue groups using NTILE(5).
+
+
